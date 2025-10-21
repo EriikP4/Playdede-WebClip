@@ -1,4 +1,8 @@
 ﻿# Playdede for iOS *(más o menos)*
+
+# AVISO
+**Parece que PlayDede ha cerrado el día 20/10/2025, así que este proyecto queda suspendido por el momento**
+
 ## Introducción
 Este pequeño proyecto es un **Clip Web** en formato "**.mobileconfig**" para poder "simular" una aplicación de **Playdede** para **iOS**, ya que no existe ninguna.
 
